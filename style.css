@@ -36,6 +36,7 @@ nav {
     align-items: center;
     justify-content: space-evenly;
     gap: 1.5vw;
+    display: none;
 }
 
 .nav-links-container a {
