@@ -33,7 +33,7 @@ nav {
 
 .nav-links-container {
     display: flex;
-    align-items: center;
+    align-items: flex-start;
     justify-content: space-evenly;
     gap: 1.5vw;
     display: none;
@@ -75,7 +75,6 @@ nav {
     color: black;
 }
 
-/* .menu-icon {
-    height: 70px;
-    width: 70px;
-} */
+i:last-child {
+    display: none;
+}
