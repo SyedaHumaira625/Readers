@@ -74,3 +74,8 @@ nav {
 .nav-links-container h5:hover a {
     color: white;
 }
+
+.menu-icon {
+    height: 70px;
+    width: 70px;
+}
